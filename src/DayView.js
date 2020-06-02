@@ -2,7 +2,7 @@
 import { View, Text, ScrollView, TouchableOpacity } from 'react-native';
 import populateEvents from './Packer';
 import React from 'react';
-import moment from 'moment';
+import moment from 'moment/min/moment-with-locales';
 import _ from 'lodash';
 
 const LEFT_MARGIN = 60 - 1;
