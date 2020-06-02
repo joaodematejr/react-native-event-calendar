@@ -27,15 +27,15 @@
     "daily"
   ],
   "dependencies": {
-    "lodash": "^4.17.4",
-    "moment": "^2.18.1"
+    "lodash": "^4.17.15",
+    "moment": "^2.26.0"
   },
   "devDependencies": {
-    "husky": "^0.14.3",
-    "lint-staged": "^7.2.0",
-    "prettier": "^1.13.7",
-    "react": "16.0.0-alpha.6",
-    "react-native": "^0.44.0"
+    "husky": "^4.2.5",
+    "lint-staged": "^10.2.7",
+    "prettier": "^2.0.5",
+    "react": "16.13.1",
+    "react-native": "^0.62.2"
   },
   "author": "Duy Luong & Josh Hargreaves",
   "license": "ISC",
