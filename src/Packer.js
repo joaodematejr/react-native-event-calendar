@@ -1,5 +1,5 @@
 // @flow
-import moment from 'moment';
+import moment from 'moment/min/moment-with-locales';
 const offset = 100;
 
 function buildEvent(column, left, width, dayStart) {
